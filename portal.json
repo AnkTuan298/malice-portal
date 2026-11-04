@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "kdf": {
+    "alg": "scrypt",
+    "N": 32768,
+    "r": 8,
+    "p": 1
+  },
+  "accounts": [
+    {
+      "uid": "328509e3f575ab88fab32ffa7516ce54bc85159f68b91fa7bc8c01a64c405a92",
+      "role": "admin",
+      "salt": "Qo79i5CPvEkUKClKddZASQ==",
+      "wrap": {
+        "iv": "Oq5oaeb9Qx6xJdhu",
+        "ct": "CVK3sSdzZnpVpRKaqQL0MxnmC/W7fXMmuvQVSqCQFwY=",
+        "tag": "qCvnFdTLa57pyI2gU3/CkQ=="
+      }
+    },
+    {
+      "uid": "f15b3a30d8adf770828d96020b9084fc5957b52b22664d37e31a7a040eedbd1f",
+      "role": "user",
+      "salt": "mh8Owd85yfs+nhr2stMbTg==",
+      "wrap": {
+        "iv": "6jtIc6Y8MbV5NtJL",
+        "ct": "WmJjtmS5YsdbNqWrGS1Xo0RqnTssioxxSc0vi6P00ZQ=",
+        "tag": "gu3xEnv/8uEYstomqXniKw=="
+      }
+    },
+    {
+      "uid": "61c23aeaa4eb26e671e082ceb41632960fbde0675279ee372f492d54738fb4d1",
+      "role": "user",
+      "salt": "g3fAy2r5t/qnCr1KwKiRGw==",
+      "wrap": {
+        "iv": "JLfMiV3LY4XBNNCZ",
+        "ct": "zFDTgAninhq1YnoIfqxRZ4eovQPdMuDxDhknfC6q2zk=",
+        "tag": "M2tqvJN5Y4WrBL72ffpIGA=="
+      }
+    },
+    {
+      "uid": "9ed79ea16934a085308e9ddcb59ce7e6cb35df6bf4c94ec096251f8f1f01f04a",
+      "role": "user",
+      "salt": "0fuuHF9a51B6kwjaDZ6mUQ==",
+      "wrap": {
+        "iv": "TlrZPNLMTRVWzBlu",
+        "ct": "WGZrthwYP0aalphn4OaCr6R4KFe40V3VARNaehx5fyA=",
+        "tag": "lUfu9YmbVrDP0iCf5PAbqA=="
+      }
+    },
+    {
+      "uid": "f017c263915adaeb12aa24ebd2051538d24f589ffc196ae121fd3b9d89f4b52f",
+      "role": "user",
+      "salt": "CIMg9OwYBLVlytQSDUmi3Q==",
+      "wrap": {
+        "iv": "g8yvGYQFTo4jVq44",
+        "ct": "9vz2QmBMtBR23c05CGLJoorD7niKitGoS6nxd43CXtA=",
+        "tag": "jVF7na1xTri2hQQCqonWww=="
+      }
+    },
+    {
+      "uid": "5e2fe5b73cea92336cb4faf60dee6526d7d4c3078b14ebd7b98fee6a606cbbbb",
+      "role": "user",
+      "salt": "4z80mA6v2URzklQtcZg0zg==",
+      "wrap": {
+        "iv": "/CCJexTR+lG9Tf4P",
+        "ct": "vXImb29J1omtRFFwUpv97QJewNKgt5m7dqljpc57nE0=",
+        "tag": "PZJVmmNQf7ZSaokXDKeykw=="
+      }
+    }
+  ],
+  "catalog": {
+    "iv": "NVu7hfkuTyeBDMoc",
+    "ct": "uupPllOAMazSocciUkDimAbn6DoVLA3eooLY66liS0YSXYsi/d1gHkRyx9NvzWN8e6id",
+    "tag": "ix5bZ99HnMCtNChI2rIRNQ=="
+  }
+}
